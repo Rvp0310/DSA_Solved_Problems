@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 49
+- Total Problems Solved: 50
     - Easy: 16
-    - Medium: 28
+    - Medium: 29
     - Hard: 5
 
 ---
@@ -15,7 +15,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 ## Topics Covered
 
 - [**14**] Array (./Array/README.md)
-- [**5**] Hashing (./Hashing/README.md)
+- [**6**] Hashing (./Hashing/README.md)
 - [**7**] Matrix (./Matrix/README.md)
 - [**8**] Searching (./Searching/README.md)
 - [**7**] Sorting (./Sorting/README.md)

@@ -4,9 +4,9 @@ This folder contains solutions to hashing-related problems categorized by diffic
 
 ---
         
-**Total Solved**: 5
+**Total Solved**: 6
 - Easy: 3
-- Medium: 2
+- Medium: 3
 - Hard: 0
 
 ---
@@ -20,3 +20,4 @@ This folder contains solutions to hashing-related problems categorized by diffic
 | `Union Of Array With Duplicates` | GeeksForGeeks | Easy | February 7, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538) |
 | `Count Pairs With Given Sum` | GeeksForGeeks | Medium | February 7, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-pairs-with-given-sum--150253) |
 | `Find All Triplets With Zero Sum` | GeeksForGeeks | Medium | October 17, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum) |
+| `Longest Consecutive Subsequence` | GeeksForGeeks | Medium | October 18, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/longest-consecutive-subsequence2449) |
