@@ -23,14 +23,12 @@ using namespace std;
 class Solution {
   public:
     int maximumProfit(vector<int> &prices) {
-        int minprice = prices[0], maxprofit = 0, n = prices.size();
-        for(int i = 1; i < n; i++)
-        {
-            int profit=prices[i]-minprice;
-            maxprofit=max(maxprofit,profit);
-            minprice=min(prices[i],minprice);
+        int n = prices.size(), minprice = INT_MAX, maxprof = 0;
+        for(int i = 0; i < n; i++){
+            minprice = min(minprice, prices[i]);
+            maxprof = max(maxprof, prices[i] - minprice);
         }
-        return maxprofit;
+        return maxprof;
     }
 };
 
@@ -56,4 +54,5 @@ int main(){
     cout << "\nHighest profit that can be attained is " << s.maximumProfit(stocks) << endl;
 
     return 0;
+
 }
