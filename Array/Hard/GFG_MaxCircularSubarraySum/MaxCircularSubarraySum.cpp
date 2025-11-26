@@ -6,7 +6,13 @@ Problem Statement:
 You are given a circular array arr[] of integers, find the maximum possible sum of a non-empty subarray. In a circular array, the subarray can start at the end and wrap around to the beginning. Return the maximum non-empty subarray sum, considering both non-wrapping and wrapping cases.
 -----------------------------------------------------------
 Approach:
-Track normal max subarray sum (Kadane’s), and also min subarray sum to handle wrapping — final result is max of non-circular and circular (totalSum - minSubarray) for full coverage in O(n) time.
+Run Kadane’s algorithm twice in one pass — once to find the maximum subarray sum, and once (in inverted form) to find the minimum subarray sum.
+The normal Kadane result gives the best non-circular answer.
+For the circular case, the max sum is `totalSum − minSubarray`, which represents taking the prefix + suffix around the minimum segment.
+Two edge checks keep the result valid:
+* If all numbers are negative, return the Kadane maximum directly.
+* If the minimum subarray equals the entire array, the circular case is invalid, so again return the normal maximum.
+The final result is the larger of the non-circular and valid circular values, computed in O(n) time.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)
@@ -22,16 +28,22 @@ using namespace std;
 class Solution {
   public:
     int circularSubarraySum(vector<int> &arr) {
-        int cmax,nmax=arr[0],currmax=arr[0],currmin=arr[0],nmin=arr[0],tsum=arr[0],n=arr.size();
-        for(int i=1;i<n;i++){
-            currmax=max(currmax+arr[i],arr[i]);
-            nmax=max(currmax,nmax);
-            currmin=min(currmin+arr[i],arr[i]);
-            nmin=min(nmin,currmin);
-            tsum+=arr[i];
+        int n = arr.size();
+        int minsum = INT_MAX, maxsum = INT_MIN, currmax = 0, currmin = 0, total = 0;
+        for(int i = 0; i < n; i++){
+            total += arr[i];
+            currmax = max(currmax + arr[i], arr[i]);
+            currmin = min(currmin + arr[i], arr[i]);
+            maxsum = max(currmax, maxsum);
+            minsum = min(currmin, minsum);
         }
-        cmax=max(tsum-nmin,nmax);
-        return cmax;
+        
+        if (maxsum < 0 || total == minsum){
+            return maxsum;
+        }
+      
+        int result = max(maxsum, (total - minsum));
+        return result;
     }
 };
 
@@ -57,4 +69,5 @@ int main(){
     cout << "\nThe maximum subarray sum for the given array is " << s.circularSubarraySum(nums) << endl;
 
     return 0;
+
 }
