@@ -26,25 +26,26 @@ using namespace std;
 class Solution {
     public:
         int myAtoi(char *s) {
-            int sign = 1, result = 0, in = 0;
-            while(s[in] == ' '){
+            int in = 0, sign = 1, n = s.length(), atoi = 0;
+            while(in < n && s[in] == ' '){
                 in++;
             }
-            if(s[in] == '-' || s[in] == '+'){
+            if(in < n){
                 if(s[in] == '-'){
                     sign = -sign;
                     in++;
+                } else if (s[in] == '+'){
+                    in++;
+                }
+                while(isdigit(s[in])){
+                    if(atoi > INT_MAX/10 || (atoi == INT_MAX/10 && s[in] - '0' > 7)){
+                        return sign == 1? INT_MAX: INT_MIN;
+                    }
+                    atoi = (atoi * 10) + (s[in] - '0');
+                    in++;
                 }
             }
-            while(s[in] >= '0' && s[in] <= '9'){            
-                if(result > INT_MAX / 10|| (result == INT_MAX / 10 && s [in] - '0' > 7))
-                {
-                    return sign==1?INT_MAX:INT_MIN;
-                }
-                result = (result*10) + (s[in] - '0');
-                in++;
-            }
-            return (result * sign);
+            return (atoi * sign);
         }
 };
 
@@ -58,4 +59,5 @@ int main(){
     int result = s.myAtoi(str);
     cout << "Converted integer: " << result << endl;
     return 0;
+
 }
