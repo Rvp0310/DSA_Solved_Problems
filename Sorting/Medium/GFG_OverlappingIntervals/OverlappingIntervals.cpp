@@ -23,7 +23,6 @@ using namespace std;
 class Solution {
   public:
     vector<vector<int>> mergeOverlap(vector<vector<int>>& arr) {
-        vector<vector<int>> res;
         int n = arr.size();
         sort(arr.begin(), arr.end());
         vector<vector<int>> ans;
@@ -70,3 +69,4 @@ int main() {
     }
     return 0;
 }
+
