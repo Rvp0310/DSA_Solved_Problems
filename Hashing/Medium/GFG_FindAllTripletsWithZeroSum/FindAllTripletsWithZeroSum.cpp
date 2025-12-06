@@ -7,7 +7,7 @@ Given an array arr[], find all possible triplets i, j, k in the arr[] whose sum 
 Returned triplet should also be internally sorted i.e. i<j<k.
 -----------------------------------------------------------
 Approach:
-The function finds all unique triplets of indices in an array whose elements sum to zero. An unordered_map is used to map each element to its index for O(1) access. Another unordered_map now stores all pairs of indices for the negative sum of every element pair, allowing the function to handle cases where multiple pairs produce the same sum. An unordered_set containing all elements from the given array is used to quickly check if the third element exists. A set<vector<int>> stores the triplets in sorted order, automatically removing duplicates. This ensures that even for duplicate elements or multiple same-sum pairs, all valid triplets are captured. Finally, the unique triplets are collected from the set and returned as a vector.
+Finds all unique index triplets whose values sum to zero by checking every pair (i, j), using a map for O(1) access to the required third element, and storing each sorted triplet in a set to automatically remove duplicates before returning the results.
 -----------------------------------------------------------
 Time Complexity: O(n^2)
 Space Complexity: O(n^2)
@@ -27,9 +27,8 @@ using namespace std;
 class Solution {
   public:
     vector<vector<int>> findTriplets(vector<int> &arr) {
-        set<vector<int>> uniq;
+        set<vector<int>> res;
         unordered_set<int> lookup(arr.begin(), arr.end());
-        unordered_map<int, vector<pair<int, int>>> pairSum;
         unordered_map<int, int> indices;
 
         int n = arr.size();
@@ -39,28 +38,23 @@ class Solution {
         }
 
         for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if (i == j){
-                    continue;
-                }
-                pairSum[-(arr[i] + arr[j])].push_back({i, j});
+        for(int j = 0; j < n; j++){
+            if(i == j){
+                continue;
             }
-        }
-
-        for(auto& [sum, pairs] : pairSum){
-            if(lookup.count(sum)){
-                int k = indices[sum];
-                for(auto& [i, j] : pairs){
-                    if(i != k && j != k){
-                        vector<int> triplet = {i, j, k};
-                        sort(triplet.begin(), triplet.end());
-                        uniq.insert(triplet);
-                    }
+            int req = -(arr[i] + arr[j]);
+            if(lookup.count(req)){
+                int k = indices[req];
+                if(i != k && j != k){
+                    vector<int> tri = {i, j, k};
+                    sort(tri.begin(), tri.end());
+                    res.insert(tri);
                 }
             }
         }
-
-        vector<vector<int>> r(uniq.begin(), uniq.end());
+    }
+    
+    vector<vector<int>> r(res.begin(), res.end());
 
         return r;
     }
@@ -96,3 +90,4 @@ int main(){
 
     return 0;
 }
+
