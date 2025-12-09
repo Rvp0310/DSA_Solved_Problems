@@ -1,6 +1,6 @@
 /* 
 Date: December 7, 2025
-Platform: LeetCode (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)
+Platform: GeeksForGeeks (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)
 -----------------------------------------------------------
 Problem Statement: 
 Given an array of integers arr[] and a number k, count the number of subarrays having XOR of their elements as k.

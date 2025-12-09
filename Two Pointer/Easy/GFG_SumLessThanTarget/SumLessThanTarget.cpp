@@ -1,6 +1,6 @@
 /* 
 Date: December 8, 2025
-Platform: LeetCode (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target)
+Platform: GeeksForGeeks (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target)
 -----------------------------------------------------------
 Problem Statement: 
 Given an array arr[] and an integer target. You have to find the number of pairs in the array whose sum is strictly less than the target.
@@ -67,7 +67,7 @@ int main(){
     Solution s;
     int result = s.countPairs(nums, target);
 
-    cout << "The total number of pairs with sum = " << target 
+    cout << "The total number of pairs with sum <= " << target 
          << " is: " << result << endl;
 
     return 0;
