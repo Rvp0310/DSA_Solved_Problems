@@ -26,7 +26,7 @@ using namespace std;
 class Solution {
     public:
         int myAtoi(char *s) {
-            int in = 0, sign = 1, n = s.length(), atoi = 0;
+            int in = 0, sign = 1, n = strlen(s), atoi = 0;
             while(in < n && s[in] == ' '){
                 in++;
             }
