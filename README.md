@@ -5,10 +5,10 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 60
+- Total Problems Solved: 64
     - Easy: 19
-    - Medium: 36
-    - Hard: 5
+    - Medium: 39
+    - Hard: 6
 
 ---
 
@@ -21,4 +21,4 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 - [**7**] Sorting (./Sorting/README.md)
 - [**1**] Stack (./Stack/README.md)
 - [**8**] String (./String/README.md)
-- [**6**] Two Pointer (./Two Pointer/README.md)
+- [**10**] Two Pointer (./Two Pointer/README.md)
