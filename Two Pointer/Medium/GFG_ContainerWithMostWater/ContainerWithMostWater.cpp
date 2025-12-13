@@ -8,7 +8,7 @@ Given an array arr[] of non-negative integers, where each element arr[i] represe
 Note: In the case of a single vertical line it will not be able to hold water.
 -----------------------------------------------------------
 Approach:
-
+Two pointers are placed at the beginning and end of the array to form the widest possible container. At each step, the water that can be stored between these two lines is calculated using the product of distance between the pointers and the smaller of the two heights, and the maximum volume is updated if this value is larger. Then, the pointer pointing to the shorter line is moved inward because keeping it cannot increase the water level, while the taller line is kept in place. This process continues until the pointers meet, ensuring the maximum possible water container is found in linear time.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)

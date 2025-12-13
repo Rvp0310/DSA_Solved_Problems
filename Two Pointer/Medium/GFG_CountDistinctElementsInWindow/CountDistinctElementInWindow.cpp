@@ -6,7 +6,7 @@ Problem Statement:
 Given an integer array arr[] and a number k. Find the count of distinct elements in every window of size k in the array.
 -----------------------------------------------------------
 Approach:
-
+A sliding window of size k is maintained while a frequency map keeps track of how many times each element appears inside the current window. The first window is processed by inserting its elements into the map and storing the number of distinct elements. Then, as the window moves forward, the element going out of the window has its frequency reduced and is removed from the map if its count becomes zero, while the new incoming element is added or updated in the map. After each shift, the current size of the map is recorded, giving the count of distinct elements for every window.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(k)

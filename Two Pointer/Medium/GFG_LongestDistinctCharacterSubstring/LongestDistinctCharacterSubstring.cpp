@@ -6,7 +6,7 @@ Problem Statement:
 You are given a string s. You have to find the length of the longest substring with all distinct characters. 
 -----------------------------------------------------------
 Approach:
-
+A sliding window is used to keep a substring with all distinct characters. Two pointers define the current window, and a frequency map tracks how many times each character appears inside it. The right pointer expands the window by adding characters, and whenever a character repeats, the left pointer moves forward while reducing frequencies until the window contains only unique characters again. After each valid window adjustment, the window length is checked and the maximum length is updated, ensuring the longest distinct-character substring is found in one pass.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)
