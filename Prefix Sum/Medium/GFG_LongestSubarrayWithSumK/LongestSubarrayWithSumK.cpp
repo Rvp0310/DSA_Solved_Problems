@@ -6,7 +6,7 @@ Problem Statement:
 Given an array arr[] containing integers and an integer k, your task is to find the length of the longest subarray where the sum of its elements is equal to the given value k. If there is no subarray with sum equal to k, return 0.
 -----------------------------------------------------------
 Approach:
-
+A running sum is maintained while traversing the array, and a hashmap records the first index where each prefix sum occurs. If the running sum equals the target k, the current subarray from the start to the current index is considered. Otherwise, if the difference between the current sum and k exists in the map, it indicates a previous prefix sum that forms a subarray summing to k between that index and the current index. The length of this subarray is checked against the maximum length found so far. Each prefix sum is stored only once to ensure the longest possible subarray is counted.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)

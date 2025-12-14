@@ -1,4 +1,4 @@
-# 📘 DSA Problem Solving Tracker
+# DSA Problem Solving Tracker
 
 This repository tracks all my DSA practice problems solved in C++ from [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/), organized by topic and difficulty.
 ---
@@ -14,12 +14,15 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Topics Covered
 
-- [**14**] Array (./Array/README.md)
-- [**9**] Hashing (./Hashing/README.md)
-- [**7**] Matrix (./Matrix/README.md)
-- [**4**] Prefix Sum (./Prefix Sum/README.md)
-- [**8**] Searching (./Searching/README.md)
-- [**7**] Sorting (./Sorting/README.md)
-- [**1**] Stack (./Stack/README.md)
-- [**8**] String (./String/README.md)
-- [**10**] Two Pointer (./Two Pointer/README.md)
+
+| Topic | Easy | Medium | Hard | Total | Path |
+|------|------|--------|------|-------|-------|
+| *Array* | **5** | **8** | **1** | **14** | ./Array/README.md |
+| *Hashing* | **3** | **6** | **0** | **9** | ./Hashing/README.md |
+| *Matrix* | **2** | **5** | **0** | **7** | ./Matrix/README.md |
+| *Prefix Sum* | **3** | **1** | **0** | **4** | ./Prefix Sum/README.md |
+| *Searching* | **2** | **4** | **2** | **8** | ./Searching/README.md |
+| *Sorting* | **0** | **7** | **0** | **7** | ./Sorting/README.md |
+| *Stack* | **0** | **1** | **0** | **1** | ./Stack/README.md |
+| *String* | **4** | **2** | **2** | **8** | ./String/README.md |
+| *Two Pointer* | **3** | **6** | **1** | **10** | ./Two Pointer/README.md |
