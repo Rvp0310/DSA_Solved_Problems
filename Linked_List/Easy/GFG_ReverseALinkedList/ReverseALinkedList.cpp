@@ -6,7 +6,8 @@ Problem Statement:
 You are given the head of a singly linked list. You have to reverse the linked list and return the head of the reversed list.
 -----------------------------------------------------------
 Approach:
-Start with two pointers: one pointing to NULL (this will become the previous node) and one pointing to the head of the list (the current node). While the current node is not NULL, first store its next node so the rest of the list is not lost. Then reverse the link by making the current node point to the previous node. After that, move the previous pointer to the current node and move the current pointer to the stored next node. When the loop ends, the previous pointer points to the new head of the reversed list, which is returned.----------------------------------------
+Start with two pointers: one pointing to NULL (this will become the previous node) and one pointing to the head of the list (the current node). While the current node is not NULL, first store its next node so the rest of the list is not lost. Then reverse the link by making the current node point to the previous node. After that, move the previous pointer to the current node and move the current pointer to the stored next node. When the loop ends, the previous pointer points to the new head of the reversed list, which is returned.
+-----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)
 */
