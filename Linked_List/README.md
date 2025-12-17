@@ -4,10 +4,10 @@ This folder contains solutions to linked_list-related problems categorized by di
 
 ---
         
-**Total Solved**: 4
+**Total Solved**: 6
 - Easy: 1
-- Medium: 2
-- Hard: 1
+- Medium: 3
+- Hard: 2
 
 ---
 
@@ -16,6 +16,8 @@ This folder contains solutions to linked_list-related problems categorized by di
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
 | `Reverse A Linked List` | GeeksForGeeks | Easy | December 15, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/article/ODYw) |
+| `Clone List With Next And Random` | GeeksForGeeks | Hard | December 17, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/clone-a-linked-list-with-next-and-random-pointer) |
 | `Reverse Groups In Linked List` | GeeksForGeeks | Hard | December 16, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list-in-groups-of-given-size) |
-| `` | GeeksForGeeks | Medium | December 15, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/rotate-a-linked-list) |
+| `Add Numbers In Linked Lists` | GeeksForGeeks | Medium | December 17, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/add-two-numbers-represented-by-linked-lists) |
 | `Merge Sorted Linked Lists` | GeeksForGeeks | Medium | December 16, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/merge-two-sorted-linked-lists) |
+| `Rotate Linked List` | GeeksForGeeks | Medium | December 15, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/rotate-a-linked-list) |
