@@ -1,6 +1,6 @@
 /* 
 Date: December 15, 2025
-Platform: GeeksForGeeks (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/article/ODYw)
+Platform: GeeksForGeeks (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list)
 -----------------------------------------------------------
 Problem Statement: 
 You are given the head of a singly linked list. You have to reverse the linked list and return the head of the reversed list.
