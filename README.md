@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 77
+- Total Problems Solved: 78
     - Easy: 23
-    - Medium: 46
+    - Medium: 47
     - Hard: 8
 
 ---
@@ -22,6 +22,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Linked_List* | **1** | **6** | **2** | **9** | [./Linked_List/README.md](./Linked_List/README.md) |
 | *Matrix* | **2** | **5** | **0** | **7** | [./Matrix/README.md](./Matrix/README.md) |
 | *Prefix_Sum* | **3** | **1** | **0** | **4** | [./Prefix_Sum/README.md](./Prefix_Sum/README.md) |
+| *Recursion_And_Backtracking* | **0** | **1** | **0** | **1** | [./Recursion_And_Backtracking/README.md](./Recursion_And_Backtracking/README.md) |
 | *Searching* | **2** | **4** | **2** | **8** | [./Searching/README.md](./Searching/README.md) |
 | *Sorting* | **0** | **7** | **0** | **7** | [./Sorting/README.md](./Sorting/README.md) |
 | *Stack* | **0** | **1** | **0** | **1** | [./Stack/README.md](./Stack/README.md) |
