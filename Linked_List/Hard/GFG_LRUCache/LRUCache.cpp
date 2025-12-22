@@ -14,7 +14,7 @@ put(key, value): if the key is already present, update its value. If not present
 In the constructor of the class the capacity of the cache should be initialized.
 -----------------------------------------------------------
 Approach:
-
+The cache is implemented using a combination of a doubly linked list and a hashmap to maintain both order and fast access. The doubly linked list stores cache entries in order of usage, where the most recently used node is kept near the head and the least recently used node is kept near the tail. The hashmap maps keys directly to their corresponding nodes in the linked list, allowing constant-time access. When a key is accessed using get, its node is removed from its current position and moved to the front of the list to mark it as recently used. When inserting a key using put, if the key already exists, its value is updated and the node is moved to the front. If the key does not exist and the cache is full, the least recently used node near the tail is removed before inserting the new node at the front. This structure ensures that recently accessed items are retained while older ones are evicted when capacity is reached.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)
