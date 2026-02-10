@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 109
+- Total Problems Solved: 112
     - Easy: 27
-    - Medium: 67
+    - Medium: 70
     - Hard: 15
 
 ---
@@ -27,7 +27,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Recursion_And_Backtracking* | **0** | **3** | **2** | **5** | [./Recursion_And_Backtracking/README.md](./Recursion_And_Backtracking/README.md) |
 | *Searching* | **2** | **4** | **2** | **8** | [./Searching/README.md](./Searching/README.md) |
 | *Sorting* | **0** | **7** | **0** | **7** | [./Sorting/README.md](./Sorting/README.md) |
-| *Stack* | **1** | **3** | **2** | **6** | [./Stack/README.md](./Stack/README.md) |
+| *Stack* | **1** | **6** | **2** | **9** | [./Stack/README.md](./Stack/README.md) |
 | *String* | **4** | **2** | **2** | **8** | [./String/README.md](./String/README.md) |
 | *Tree* | **3** | **10** | **2** | **15** | [./Tree/README.md](./Tree/README.md) |
 | *Two_Pointer* | **3** | **6** | **1** | **10** | [./Two_Pointer/README.md](./Two_Pointer/README.md) |
