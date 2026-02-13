@@ -4,10 +4,10 @@ This folder contains solutions to stack-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 9
+**Total Solved**: 10
 - Easy: 1
 - Medium: 6
-- Hard: 2
+- Hard: 3
 
 ---
 
@@ -18,6 +18,7 @@ This folder contains solutions to stack-related problems categorized by difficul
 | `Paranthesis Checker` | GeeksForGeeks | Easy | December 28, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/parenthesis-checker2744) |
 | `Largest Rectangular Area` | GeeksForGeeks | Hard | February 8, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/maximum-rectangular-area-in-a-histogram-1587115620) |
 | `Longest Valid Paranthesis` | GeeksForGeeks | Hard | February 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/longest-valid-parentheses5657) |
+| `Max Of Min For Every Window` | GeeksForGeeks | Hard | February 13, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/maximum-of-minimum-for-every-window-size3453) |
 | `Decoded String` | GeeksForGeeks | Medium | February 10, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/decode-the-string2444) |
 | `Get Min From Stack` | GeeksForGeeks | Medium | February 10, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/get-minimum-element-from-stack) |
 | `Next Greatest Element` | GeeksForGeeks | Medium | February 7, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/stack-gfg-160/problem/next-larger-element-1587115620) |
