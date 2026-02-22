@@ -8,7 +8,10 @@ A subsequence is a sequence that can be derived from the given sequence by delet
 A palindromic sequence is a sequence that reads the same forward and backward.
 -----------------------------------------------------------
 Approach:
-
+The optimized solution uses two 1D arrays, prev and curr, instead of a 2D DP table. Here, i represents the starting index of a substring and j represents the ending index. The value curr[j] stores the longest palindromic subsequence length for the substring from i to j.
+The outer loop runs from right to left because each state depends on results of the next index (i + 1). For each i, curr[i] is set to 1 since a single character is always a palindrome.
+For every j > i, if s[i] == s[j], the value becomes prev[j - 1] + 2. Otherwise, it becomes max(prev[j], curr[j - 1]). After processing one row, curr is assigned to prev for the next iteration.
+The final answer is stored in the last index of the curr array.
 -----------------------------------------------------------
 Time Complexity: O(n * m)
 Space Complexity: O(n)

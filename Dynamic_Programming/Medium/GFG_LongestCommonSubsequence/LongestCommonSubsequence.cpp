@@ -8,7 +8,10 @@ Given two strings s1 and s2, return the length of their longest common subsequen
 A subsequence is a sequence that can be derived from the given string by deleting some or no elements without changing the order of the remaining elements. For example, "ABE" is a subsequence of "ABCDE".
 -----------------------------------------------------------
 Approach:
-
+This problem is solved using Dynamic Programming by defining dp[i][j] as the length of the longest common subsequence between the first i characters of s1 and the first j characters of s2.
+A 2D table of size (m + 1) × (n + 1) is created and initialized with 0. The extra row and column handle base cases where one string is empty, in which case the LCS length is 0.
+The table is filled row by row. If the current characters match, i.e., s1[i - 1] == s2[j - 1], then the value becomes dp[i - 1][j - 1] + 1, since this character extends the common subsequence. If the characters do not match, the value becomes the maximum of excluding one character from either string, i.e., max(dp[i - 1][j], dp[i][j - 1]).
+After filling the table, the value at dp[m][n] represents the length of the longest common subsequence of the two entire strings.
 -----------------------------------------------------------
 Time Complexity: O(nlogn + n*m²)
 Auxiliary Space: O(n * m)

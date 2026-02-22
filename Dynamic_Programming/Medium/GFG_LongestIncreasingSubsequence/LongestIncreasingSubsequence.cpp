@@ -7,7 +7,10 @@ Given an array arr[] of non-negative integers, the task is to find the length of
 A subsequence is strictly increasing if each element in the subsequence is strictly less than the next element.
 -----------------------------------------------------------
 Approach:
-
+This problem is solved using Dynamic Programming by defining an array lis where lis[i] stores the length of the longest strictly increasing subsequence ending at index i.
+Each element is initially assigned a value of 1 because every single element by itself forms an increasing subsequence of length 1.
+For every index i, all previous indices prev from 0 to i - 1 are checked. If arr[i] is greater than arr[prev], it means the current element can extend the increasing subsequence ending at prev. Therefore, lis[i] is updated as max(lis[i], lis[prev] + 1).
+After processing all elements, the maximum value in the lis array represents the length of the longest strictly increasing subsequence in the array.
 -----------------------------------------------------------
 Time Complexity: O(n log n)
 Space Complexity: O(n)
