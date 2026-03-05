@@ -4,10 +4,10 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 5
+**Total Solved**: 6
 - Easy: 0
 - Medium: 5
-- Hard: 0
+- Hard: 1
 
 ---
 
@@ -15,6 +15,7 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
+| `Palindrome Substring Count` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) |
 | `Longest Common Subsequence` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-common-subsequence-1587115620) |
 | `Longest Increasing Subsequence` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-increasing-subsequence-1587115620) |
 | `Longest Palindrome In A String` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-palindromic-subsequence-1612327878) |
