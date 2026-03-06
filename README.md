@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 121
+- Total Problems Solved: 122
     - Easy: 27
-    - Medium: 76
+    - Medium: 77
     - Hard: 18
 
 ---
@@ -18,7 +18,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | Topic | Easy | Medium | Hard | Total | Path |
 |------|------|--------|------|-------|-------|
 | *Array* | **5** | **8** | **1** | **14** | [./Array/README.md](./Array/README.md) |
-| *Dynamic_Programming* | **0** | **6** | **2** | **8** | [./Dynamic_Programming/README.md](./Dynamic_Programming/README.md) |
+| *Dynamic_Programming* | **0** | **7** | **2** | **9** | [./Dynamic_Programming/README.md](./Dynamic_Programming/README.md) |
 | *Hashing* | **3** | **6** | **0** | **9** | [./Hashing/README.md](./Hashing/README.md) |
 | *Heap* | **0** | **4** | **0** | **4** | [./Heap/README.md](./Heap/README.md) |
 | *Linked_List* | **1** | **6** | **3** | **10** | [./Linked_List/README.md](./Linked_List/README.md) |
