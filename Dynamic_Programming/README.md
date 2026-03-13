@@ -4,9 +4,9 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 10
+**Total Solved**: 11
 - Easy: 0
-- Medium: 8
+- Medium: 9
 - Hard: 2
 
 ---
@@ -18,6 +18,7 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 | `Edit Distance` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/edit-distance3702) |
 | `Palindrome Substring Count` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) |
 | `01 Knapsack` | GeeksForGeeks | Medium | March 12, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/0-1-knapsack-problem0945) |
+| `Coin Change Way Count` | GeeksForGeeks | Medium | March 13, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/coin-change2448) |
 | `Count Ways Up Stairs` | GeeksForGeeks | Medium | March 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-ways-to-reach-the-nth-stair-1587115620) |
 | `Longest Common Subsequence` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-common-subsequence-1587115620) |
 | `Longest Increasing Subsequence` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-increasing-subsequence-1587115620) |
