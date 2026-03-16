@@ -4,9 +4,9 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 12
+**Total Solved**: 13
 - Easy: 0
-- Medium: 10
+- Medium: 11
 - Hard: 2
 
 ---
@@ -27,3 +27,4 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 | `Longest Palindrome Seq` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-palindromic-subsequence-1612327878) |
 | `Longest String Chain` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-string-chain) |
 | `Min Cost Upstairs` | GeeksForGeeks | Medium | March 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/min-cost-climbing-stairs) |
+| `Minimum Jumps` | GeeksForGeeks | Medium | March 16, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/minimum-number-of-jumps-1587115620) |
