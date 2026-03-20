@@ -4,9 +4,9 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 13
+**Total Solved**: 15
 - Easy: 0
-- Medium: 11
+- Medium: 13
 - Hard: 2
 
 ---
@@ -28,3 +28,5 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 | `Longest String Chain` | GeeksForGeeks | Medium | February 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/longest-string-chain) |
 | `Min Cost Upstairs` | GeeksForGeeks | Medium | March 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/min-cost-climbing-stairs) |
 | `Minimum Jumps` | GeeksForGeeks | Medium | March 16, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/minimum-number-of-jumps-1587115620) |
+| `Partition Equal Sum` | GeeksForGeeks | Medium | March 20, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem2014) |
+| `Subset Sum` | GeeksForGeeks | Medium | March 20, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem-1611555638) |

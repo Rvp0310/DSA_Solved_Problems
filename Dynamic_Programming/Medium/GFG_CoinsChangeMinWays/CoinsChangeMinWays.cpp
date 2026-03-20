@@ -8,7 +8,7 @@ You are given an array coins[], where each element represents a coin of a differ
 Your task is to determine the minimum number of coins needed to obtain the target sum. If it is not possible to form the sum using the given coins, return -1.
 -----------------------------------------------------------
 Approach:
-
+This directly checks whether any subset can form the given target sum. Use DP where each state represents whether a sum is possible. Start with sum 0 as always possible, then for each element update the DP by either taking it (reduce sum) or not taking it. If the target sum is marked achievable at the end, return true.
 -----------------------------------------------------------
 Time Complexity: O(n * sum)
 Space Complexity: O(sum)
