@@ -4,10 +4,10 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 15
+**Total Solved**: 17
 - Easy: 0
 - Medium: 13
-- Hard: 2
+- Hard: 4
 
 ---
 
@@ -17,6 +17,8 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 |---------|----------|------------|------|------|
 | `Edit Distance` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/edit-distance3702) |
 | `Palindrome Substring Count` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) |
+| `Stock Buy And Sell Max K Transactions` | GeeksForGeeks | Hard | March 21, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/maximum-profit4657) |
+| `stock Buy And Sell Max Two Transaction` | GeeksForGeeks | Hard | March 21, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/buy-and-sell-a-share-at-most-twice) |
 | `01 Knapsack` | GeeksForGeeks | Medium | March 12, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/0-1-knapsack-problem0945) |
 | `Coin Change Way Count` | GeeksForGeeks | Medium | March 13, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/coin-change2448) |
 | `Coins Change Min Ways` | GeeksForGeeks | Medium | March 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/number-of-coins1824) |
