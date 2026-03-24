@@ -4,9 +4,9 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 17
+**Total Solved**: 19
 - Easy: 0
-- Medium: 13
+- Medium: 15
 - Hard: 4
 
 ---
@@ -31,4 +31,6 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 | `Min Cost Upstairs` | GeeksForGeeks | Medium | March 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/min-cost-climbing-stairs) |
 | `Minimum Jumps` | GeeksForGeeks | Medium | March 16, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/minimum-number-of-jumps-1587115620) |
 | `Partition Equal Sum` | GeeksForGeeks | Medium | March 20, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem2014) |
+| `Stickler Theif I I` | GeeksForGeeks | Medium | March 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/house-robber-ii) |
+| `Stickler Thief` | GeeksForGeeks | Medium | March 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/stickler-theif-1587115621) |
 | `Subset Sum` | GeeksForGeeks | Medium | March 20, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem-1611555638) |
