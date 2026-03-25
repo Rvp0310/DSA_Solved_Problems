@@ -4,9 +4,9 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 19
+**Total Solved**: 20
 - Easy: 0
-- Medium: 15
+- Medium: 16
 - Hard: 4
 
 ---
@@ -34,3 +34,4 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 | `Stickler Theif I I` | GeeksForGeeks | Medium | March 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/house-robber-ii) |
 | `Stickler Thief` | GeeksForGeeks | Medium | March 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/stickler-theif-1587115621) |
 | `Subset Sum` | GeeksForGeeks | Medium | March 20, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem-1611555638) |
+| `Total Decoding Message` | GeeksForGeeks | Medium | March 25, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/total-decoding-messages1235) |
