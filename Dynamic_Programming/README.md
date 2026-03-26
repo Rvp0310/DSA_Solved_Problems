@@ -4,10 +4,10 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 20
+**Total Solved**: 22
 - Easy: 0
-- Medium: 16
-- Hard: 4
+- Medium: 17
+- Hard: 5
 
 ---
 
@@ -15,6 +15,7 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
+| `Chain Matrix Multiplication` | GeeksForGeeks | Hard | March 26, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/matrix-chain-multiplication0303) |
 | `Edit Distance` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/edit-distance3702) |
 | `Palindrome Substring Count` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) |
 | `Stock Buy And Sell Max K Transactions` | GeeksForGeeks | Hard | March 21, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/maximum-profit4657) |
@@ -35,3 +36,4 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 | `Stickler Thief` | GeeksForGeeks | Medium | March 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/stickler-theif-1587115621) |
 | `Subset Sum` | GeeksForGeeks | Medium | March 20, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/subset-sum-problem-1611555638) |
 | `Total Decoding Message` | GeeksForGeeks | Medium | March 25, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/total-decoding-messages1235) |
+| `Word Break` | GeeksForGeeks | Medium | March 26, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/word-break1352) |
