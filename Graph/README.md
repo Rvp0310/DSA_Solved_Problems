@@ -4,9 +4,9 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 6
+**Total Solved**: 7
 - Easy: 2
-- Medium: 4
+- Medium: 5
 - Hard: 0
 
 ---
@@ -19,5 +19,6 @@ This folder contains solutions to graph-related problems categorized by difficul
 | `D F S` | GeeksForGeeks | Easy | March 27, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/depth-first-traversal-for-a-graph) |
 | `Bellman Ford` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/distance-from-the-source-bellman-ford-algorithm) |
 | `Floyd Warshall` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/implementing-floyd-warshall2042) |
+| `No Of Islands` | GeeksForGeeks | Medium | April 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) |
 | `Rotten Oranges` | GeeksForGeeks | Medium | April 3, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/rotten-oranges2536) |
 | `Undirected Graph Cycle` | GeeksForGeeks | Medium | April 3, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-an-undirected-graph) |
