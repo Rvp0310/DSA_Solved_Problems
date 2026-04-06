@@ -4,9 +4,9 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 7
+**Total Solved**: 8
 - Easy: 2
-- Medium: 5
+- Medium: 6
 - Hard: 0
 
 ---
@@ -21,4 +21,5 @@ This folder contains solutions to graph-related problems categorized by difficul
 | `Floyd Warshall` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/implementing-floyd-warshall2042) |
 | `No Of Islands` | GeeksForGeeks | Medium | April 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) |
 | `Rotten Oranges` | GeeksForGeeks | Medium | April 3, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/rotten-oranges2536) |
+| `Topological Sort` | GeeksForGeeks | Medium | April 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/topological-sort) |
 | `Undirected Graph Cycle` | GeeksForGeeks | Medium | April 3, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-an-undirected-graph) |
