@@ -8,7 +8,7 @@ Given an undirected graph with V vertices and E edges, represented as a 2D vecto
 Note: The graph can have multiple component.
 -----------------------------------------------------------
 Approach:
-
+Build the adjacency list and compute indegree of each node, then push all nodes with indegree 0 into a queue since they have no incoming edges. Perform a BFS-like process where each removed node is counted as visited and its neighbors’ indegree is reduced; if any neighbor’s indegree becomes 0, push it into the queue. In a valid DAG, all nodes will eventually be processed, but if a cycle exists, some nodes will never reach indegree 0 and remain unprocessed. So after the traversal, if the number of visited nodes is less than V, a cycle is present.
 -----------------------------------------------------------
 Time Complexity: O(V + E)
 Space Complexity: O(V)
