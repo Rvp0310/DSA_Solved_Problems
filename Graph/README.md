@@ -4,9 +4,9 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 10
+**Total Solved**: 11
 - Easy: 2
-- Medium: 8
+- Medium: 9
 - Hard: 0
 
 ---
@@ -21,6 +21,7 @@ This folder contains solutions to graph-related problems categorized by difficul
 | `Bridge Edge` | GeeksForGeeks | Medium | April 11, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bridge-edge-in-graph) |
 | `Cycle In Directed Graph` | GeeksForGeeks | Medium | April 10, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-a-directed-graph) |
 | `Floyd Warshall` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/implementing-floyd-warshall2042) |
+| `Min Cost In Neighbourhood` | GeeksForGeeks | Medium | April 13, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/minimum-cost-to-connect-all-houses-in-a-city) |
 | `No Of Islands` | GeeksForGeeks | Medium | April 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) |
 | `Rotten Oranges` | GeeksForGeeks | Medium | April 3, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/rotten-oranges2536) |
 | `Topological Sort` | GeeksForGeeks | Medium | April 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/topological-sort) |
