@@ -4,9 +4,9 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 11
+**Total Solved**: 12
 - Easy: 2
-- Medium: 9
+- Medium: 10
 - Hard: 0
 
 ---
@@ -20,6 +20,7 @@ This folder contains solutions to graph-related problems categorized by difficul
 | `Bellman Ford` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/distance-from-the-source-bellman-ford-algorithm) |
 | `Bridge Edge` | GeeksForGeeks | Medium | April 11, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bridge-edge-in-graph) |
 | `Cycle In Directed Graph` | GeeksForGeeks | Medium | April 10, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-a-directed-graph) |
+| `Flood Fill` | GeeksForGeeks | Medium | April 14, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/flood-fill-algorithm1856) |
 | `Floyd Warshall` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/implementing-floyd-warshall2042) |
 | `Min Cost In Neighbourhood` | GeeksForGeeks | Medium | April 13, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/minimum-cost-to-connect-all-houses-in-a-city) |
 | `No Of Islands` | GeeksForGeeks | Medium | April 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/find-the-number-of-islands) |
