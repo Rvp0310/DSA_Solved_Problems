@@ -4,9 +4,9 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 12
+**Total Solved**: 13
 - Easy: 2
-- Medium: 10
+- Medium: 11
 - Hard: 0
 
 ---
@@ -19,6 +19,7 @@ This folder contains solutions to graph-related problems categorized by difficul
 | `D F S` | GeeksForGeeks | Easy | March 27, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/depth-first-traversal-for-a-graph) |
 | `Bellman Ford` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/distance-from-the-source-bellman-ford-algorithm) |
 | `Bridge Edge` | GeeksForGeeks | Medium | April 11, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bridge-edge-in-graph) |
+| `Clone Undirected Graph` | GeeksForGeeks | Medium | April 15, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/clone-graph) |
 | `Cycle In Directed Graph` | GeeksForGeeks | Medium | April 10, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/detect-cycle-in-a-directed-graph) |
 | `Flood Fill` | GeeksForGeeks | Medium | April 14, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/flood-fill-algorithm1856) |
 | `Floyd Warshall` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/implementing-floyd-warshall2042) |
