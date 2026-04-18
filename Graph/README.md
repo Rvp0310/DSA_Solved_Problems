@@ -4,10 +4,10 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 14
+**Total Solved**: 15
 - Easy: 2
 - Medium: 11
-- Hard: 1
+- Hard: 2
 
 ---
 
@@ -17,6 +17,7 @@ This folder contains solutions to graph-related problems categorized by difficul
 |---------|----------|------------|------|------|
 | `B F S` | GeeksForGeeks | Easy | March 27, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bfs-traversal-of-graph) |
 | `D F S` | GeeksForGeeks | Easy | March 27, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/depth-first-traversal-for-a-graph) |
+| `Alien Dictionary` | GeeksForGeeks | Hard | April 18, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/alien-dictionary) |
 | `Articulate Point` | GeeksForGeeks | Hard | April 17, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/articulation-point2616) |
 | `Bellman Ford` | GeeksForGeeks | Medium | April 1, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/distance-from-the-source-bellman-ford-algorithm) |
 | `Bridge Edge` | GeeksForGeeks | Medium | April 11, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/graph-gfg-160/problem/bridge-edge-in-graph) |
