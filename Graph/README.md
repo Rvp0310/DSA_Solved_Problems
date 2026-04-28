@@ -4,10 +4,10 @@ This folder contains solutions to graph-related problems categorized by difficul
 
 ---
         
-**Total Solved**: 16
+**Total Solved**: 17
 - Easy: 2
 - Medium: 12
-- Hard: 2
+- Hard: 3
 
 ---
 
