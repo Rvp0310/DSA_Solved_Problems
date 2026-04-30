@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 152
+- Total Problems Solved: 153
     - Easy: 29
-    - Medium: 99
+    - Medium: 100
     - Hard: 24
 
 ---
@@ -32,4 +32,5 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Stack* | **1** | **6** | **3** | **10** | [./Stack/README.md](./Stack/README.md) |
 | *String* | **4** | **2** | **2** | **8** | [./String/README.md](./String/README.md) |
 | *Tree* | **3** | **10** | **2** | **15** | [./Tree/README.md](./Tree/README.md) |
+| *Trie* | **0** | **1** | **0** | **1** | [./Trie/README.md](./Trie/README.md) |
 | *Two_Pointer* | **3** | **6** | **1** | **10** | [./Two_Pointer/README.md](./Two_Pointer/README.md) |
