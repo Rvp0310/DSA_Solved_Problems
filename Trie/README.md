@@ -4,9 +4,9 @@ This folder contains solutions to trie-related problems categorized by difficult
 
 ---
         
-**Total Solved**: 1
+**Total Solved**: 2
 - Easy: 0
-- Medium: 1
+- Medium: 2
 - Hard: 0
 
 ---
@@ -16,3 +16,4 @@ This folder contains solutions to trie-related problems categorized by difficult
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
 | `Implement Trie` | GeeksForGeeks | Medium | April 30, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tries-gfg-160/problem/trie-insert-and-search0651) |
+| `Max X O R` | GeeksForGeeks | Medium | May 8, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tries-gfg-160/problem/maximum-xor-of-two-numbers-in-an-array) |
