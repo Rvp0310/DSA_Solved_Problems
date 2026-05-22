@@ -4,10 +4,10 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 ---
         
-**Total Solved**: 22
+**Total Solved**: 23
 - Easy: 0
 - Medium: 17
-- Hard: 5
+- Hard: 6
 
 ---
 
@@ -15,6 +15,7 @@ This folder contains solutions to dynamic_programming-related problems categoriz
 
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
+| `Boolean Parenthesization` | GeeksForGeeks | Hard | May 22, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/boolean-parenthesization5610) |
 | `Chain Matrix Multiplication` | GeeksForGeeks | Hard | March 26, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/matrix-chain-multiplication0303) |
 | `Edit Distance` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/edit-distance3702) |
 | `Palindrome Substring Count` | GeeksForGeeks | Hard | March 5, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/dynamic-programming-gfg-160/problem/count-palindrome-sub-strings-of-a-string0652) |
