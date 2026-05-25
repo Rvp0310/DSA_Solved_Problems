@@ -4,9 +4,9 @@ This folder contains solutions to greedy-related problems categorized by difficu
 
 ---
         
-**Total Solved**: 3
+**Total Solved**: 4
 - Easy: 1
-- Medium: 2
+- Medium: 3
 - Hard: 0
 
 ---
@@ -17,4 +17,5 @@ This folder contains solutions to greedy-related problems categorized by difficu
 |---------|----------|------------|------|------|
 | `Max String Partition` | GeeksForGeeks | Easy | May 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/maximize-partitions-in-a-string) |
 | `Activity Selection` | GeeksForGeeks | Medium | May 6, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/activity-selection-1587115620) |
-| `Min Platform` | GeeksForGeeks | Medium | May 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/activity-selection-1587115620) |
+| `Job Scheduling` | GeeksForGeeks | Medium | May 25, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/job-sequencing-problem-1587115620) |
+| `Min Platform` | GeeksForGeeks | Medium | May 24, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/greedy-gfg-160/problem/minimum-platforms-1587115620) |
