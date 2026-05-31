@@ -1,12 +1,12 @@
 # DSA Problem Solving Tracker
 
-This repository tracks all my DSA practice problems solved in C++ from [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/), organized by topic and difficulty.
+This repository tracks all my DSA practice problems solved in C++ from [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/), [HackerRank](https://www.hackerrank.com/dashboard) organized by topic and difficulty.
 ---
 
 ## Progress Overview
 
-- Total Problems Solved: 164
-    - Easy: 33
+- Total Problems Solved: 165
+    - Easy: 34
     - Medium: 106
     - Hard: 25
 
@@ -32,7 +32,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Searching* | **2** | **4** | **2** | **8** | [./Searching/README.md](./Searching/README.md) |
 | *Sorting* | **0** | **7** | **0** | **7** | [./Sorting/README.md](./Sorting/README.md) |
 | *Stack* | **1** | **6** | **3** | **10** | [./Stack/README.md](./Stack/README.md) |
-| *String* | **4** | **2** | **2** | **8** | [./String/README.md](./String/README.md) |
+| *String* | **5** | **2** | **2** | **9** | [./String/README.md](./String/README.md) |
 | *Tree* | **3** | **10** | **2** | **15** | [./Tree/README.md](./Tree/README.md) |
 | *Trie* | **0** | **2** | **0** | **2** | [./Trie/README.md](./Trie/README.md) |
 | *Two_Pointer* | **3** | **6** | **1** | **10** | [./Two_Pointer/README.md](./Two_Pointer/README.md) |
