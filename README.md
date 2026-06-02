@@ -5,10 +5,10 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 165
+- Total Problems Solved: 166
     - Easy: 34
     - Medium: 106
-    - Hard: 25
+    - Hard: 26
 
 ---
 
@@ -23,7 +23,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Graph* | **2** | **12** | **3** | **17** | [./Graph/README.md](./Graph/README.md) |
 | *Greedy* | **1** | **4** | **0** | **5** | [./Greedy/README.md](./Greedy/README.md) |
 | *Hashing* | **3** | **6** | **0** | **9** | [./Hashing/README.md](./Hashing/README.md) |
-| *Heap* | **0** | **4** | **0** | **4** | [./Heap/README.md](./Heap/README.md) |
+| *Heap* | **0** | **4** | **1** | **5** | [./Heap/README.md](./Heap/README.md) |
 | *Linked_List* | **1** | **6** | **3** | **10** | [./Linked_List/README.md](./Linked_List/README.md) |
 | *Matrix* | **2** | **5** | **0** | **7** | [./Matrix/README.md](./Matrix/README.md) |
 | *Prefix_Sum* | **3** | **1** | **0** | **4** | [./Prefix_Sum/README.md](./Prefix_Sum/README.md) |
