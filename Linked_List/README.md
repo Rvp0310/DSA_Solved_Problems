@@ -4,8 +4,8 @@ This folder contains solutions to linked_list-related problems categorized by di
 
 ---
         
-**Total Solved**: 11
-- Easy: 2
+**Total Solved**: 12
+- Easy: 3
 - Medium: 6
 - Hard: 3
 
@@ -16,6 +16,7 @@ This folder contains solutions to linked_list-related problems categorized by di
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
 | `Kth Last Element` | GFG | Easy | June 5, 2026 | [Link](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1?page=3&sortBy=submissions) |
+| `Middle Element` | GeeksForGeeks | Easy | June 6, 2026 | [Link](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=4&sortBy=submissions) |
 | `Reverse A Linked List` | GeeksForGeeks | Easy | December 15, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) |
 | `Clone List With Next And Random` | GeeksForGeeks | Hard | December 17, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/clone-a-linked-list-with-next-and-random-pointer) |
 | `L R U Cache` | GeeksForGeeks | Hard | December 21, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/lru-cache) |

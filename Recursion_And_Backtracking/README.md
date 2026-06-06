@@ -4,9 +4,9 @@ This folder contains solutions to recursion_and_backtracking-related problems ca
 
 ---
         
-**Total Solved**: 5
+**Total Solved**: 6
 - Easy: 0
-- Medium: 3
+- Medium: 4
 - Hard: 2
 
 ---
@@ -19,4 +19,5 @@ This folder contains solutions to recursion_and_backtracking-related problems ca
 | `Solve Sudoku` | GeeksForGeeks | Hard | December 27, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/solve-the-sudoku-1587115621) |
 | `Implement Pow` | GeeksForGeeks | Medium | December 22, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n) |
 | `Permutation Of String` | GeeksForGeeks | Medium | December 19, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/permutations-of-a-given-string2041) |
+| `Rat In A Maze` | GeeksForGeeks | Medium | June 6, 2026 | [Link](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1?page=4&sortBy=submissions) |
 | `Word Search` | GeeksForGeeks | Medium | December 27, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/word-search) |

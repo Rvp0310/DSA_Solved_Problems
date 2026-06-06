@@ -1,17 +1,19 @@
-/*
-Date: June 5, 2026
-Platform: GFG (https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1?page=3&sortBy=submissions)
+/* 
+Date: June 6, 2026
+Platform: GeeksForGeeks (https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=4&sortBy=submissions)
 -----------------------------------------------------------
 Problem Statement:
-Given the head of a linked list and an integer k, return the kth node from the end of the linked list. If k is greater than the number of nodes in the list, return -1.
+You are given the head of a linked list, You have to return the value of the middle node of the linked list.
+
+If the number of nodes is odd, return the middle node value.
+If the number of nodes is even, there are two middle nodes, so return the second middle node value.
 -----------------------------------------------------------
 Approach:
-Move one pointer k-1 nodes ahead. Then move both pointers together until the first pointer reaches the end. The second pointer will then point to the kth node from the end.
+Use the slow and fast pointer technique. Move slow by one step and fast by two steps. When fast reaches the end, slow points to the middle node. Return its value.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Auxiliary Space: O(1)
 */
-
 #include <iostream>
 #include <sstream>
 #include <string>
@@ -19,35 +21,29 @@ Auxiliary Space: O(1)
 using namespace std;
 
 class Node {
-public:
+  public:
     int data;
     Node* next;
 
-    Node(int x) {
+    Node(int x){
         data = x;
         next = nullptr;
     }
+
 };
 
 class Solution {
   public:
-    int getKthFromLast(Node* head, int k) {
-        Node* curr = head;
+    int getMiddle(Node* head) {
+        Node* slow = head;
+        Node* fast = head;
         
-        for(int i = 1; i < k; i++){
-            if(curr -> next == nullptr){
-                return -1;
-            }
-            curr = curr -> next;
+        while(fast && fast -> next){
+            slow = slow -> next;
+            fast = fast -> next -> next;
         }
         
-        Node *prevK = head;
-        while(curr -> next != nullptr){
-            prevK = prevK -> next;
-            curr = curr -> next;
-        }
-        
-        return prevK -> data;
+        return slow -> data;
     }
 };
 
@@ -71,9 +67,6 @@ int main(){
         prev = curr;
     }
 
-    cout << "Enter K:" << endl;
-    cin >> num;
-
     cout << "Given LL:" << endl;
     Node* curr = head;
     while(curr != nullptr){
@@ -82,7 +75,7 @@ int main(){
     }
 
     Solution s;
-    cout << num << "th last element: " << s.getKthFromLast(head, num) << endl;
+    cout << "Median: " << s.getMiddle(head) << endl;
 
     return 0;
 }
