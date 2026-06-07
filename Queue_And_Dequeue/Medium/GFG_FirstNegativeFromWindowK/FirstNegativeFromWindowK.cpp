@@ -8,7 +8,7 @@ Given an array arr[]  and a positive integer k, find the first negative integer 
 Note: If a window does not contain a negative integer, then return 0 for that window.
 -----------------------------------------------------------
 Approach:
-
+Use a deque to store indices of negative elements in the current window. For each window, remove indices that fall out of the window and use the front of the deque as the first negative element. If the deque is empty, store 0.
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(k)
