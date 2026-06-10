@@ -16,7 +16,7 @@ This folder contains solutions to heap-related problems categorized by difficult
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
 | `Merge K Sorted Lists` | LeetCode | Hard | June 1, 2026 | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) |
-| `K Closest Point To Origin` | GeeksForGeeks | Medium | January 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/find-median-in-a-stream-1587115620) |
+| `K Closest Point To Origin` | GeeksForGeeks | Medium | January 4, 2026 | [Link](https://www.geeksforgeeks.org/problems/k-closest-points-to-origin--172242/1) |
 | `Kth Largest Element` | GeeksForGeeks | Medium | January 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/article/MjM5Mg%3D%3D) |
 | `Median Of Data Stream` | GeeksForGeeks | Medium | January 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/find-median-in-a-stream-1587115620) |
 | `Merge Sorted Linked Lists` | GeeksForGeeks | Medium | January 4, 2026 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/merge-k-sorted-linked-lists) |
