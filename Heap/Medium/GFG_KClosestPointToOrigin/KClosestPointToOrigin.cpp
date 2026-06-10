@@ -1,14 +1,15 @@
 /* 
 Date: January 4, 2026
-Platform: GeeksForGeeks (https://www.geeksforgeeks.org/batch/gfg-160-problems/track/heap-gfg-160/problem/find-median-in-a-stream-1587115620)
+Platform: GeeksForGeeks (https://www.geeksforgeeks.org/problems/k-closest-points-to-origin--172242/1)
 -----------------------------------------------------------
 Problem Statement:
-Given a data stream arr[] where integers are read sequentially, the task is to determine the median of the elements encountered so far after each new integer is read.
+Given an integer k and an array of points points[][], where each point is represented as points[i] = [xi, yi] on the X-Y plane. Return the k closest points to the origin (0, 0).
 
-The median is defined as follows:
+The distance between two points on the X-Y plane is the Euclidean distance, defined as:
+distance = sqrt( (x2 - x1)2 + (y2 - y1)2 )
 
-1. Odd number of elements: The median is the middle element when the current set of numbers is sorted.
-2. Even number of elements: The median is the arithmetic mean (average) of the two middle elements when the current set of numbers is sorted.
+Note: You can return the k closest points in any order, the driver code will print them in sorted order.
+Test Cases are generated such that there will be a unique ans.
 -----------------------------------------------------------
 Approach:
 The approach uses a max-heap to efficiently track the k closest points to the origin. For each point, we compute its squared distance from the origin to avoid unnecessary square roots. If the heap size is less than k, we push the point. If the heap is full and the current point is closer than the farthest point in the heap, we pop the farthest point and push the current one. After processing all points, the heap contains the k closest points, which are then extracted into a result vector.
