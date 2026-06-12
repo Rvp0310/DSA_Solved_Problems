@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 172
+- Total Problems Solved: 174
     - Easy: 38
-    - Medium: 108
+    - Medium: 110
     - Hard: 26
 
 ---
@@ -25,7 +25,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Hashing* | **3** | **6** | **0** | **9** | [./Hashing/README.md](./Hashing/README.md) |
 | *Heap* | **0** | **4** | **1** | **5** | [./Heap/README.md](./Heap/README.md) |
 | *Linked_List* | **3** | **6** | **3** | **12** | [./Linked_List/README.md](./Linked_List/README.md) |
-| *Matrix* | **2** | **5** | **0** | **7** | [./Matrix/README.md](./Matrix/README.md) |
+| *Matrix* | **2** | **7** | **0** | **9** | [./Matrix/README.md](./Matrix/README.md) |
 | *Prefix_Sum* | **3** | **1** | **0** | **4** | [./Prefix_Sum/README.md](./Prefix_Sum/README.md) |
 | *Queue_And_Dequeue* | **2** | **3** | **0** | **5** | [./Queue_And_Dequeue/README.md](./Queue_And_Dequeue/README.md) |
 | *Recursion_And_Backtracking* | **0** | **4** | **2** | **6** | [./Recursion_And_Backtracking/README.md](./Recursion_And_Backtracking/README.md) |
