@@ -6,8 +6,7 @@ Problem Statement:
 Given a square matrix mat[][] of size n x n. The task is to rotate it by 90 degrees in an anti-clockwise direction without using any extra space. 
 -----------------------------------------------------------
 Approach:
-Transpose the matrix to flip it over its diagonal (rows become columns). 
-Then, reverse each column to rotate the matrix 90 degrees clockwise (reverse each row instead for anticlockwise rotation).
+Reverse each row of the matrix, then perform transposition to get 90 degree clockwise rotation of given matrix.
 -----------------------------------------------------------
 Time Complexity: O(n ^ 2)
 Space Complexity: O(1)
@@ -20,21 +19,20 @@ using namespace std;
 
 class Solution {
   public:
-    void rotateby90(vector<vector<int>>& mat) {
+    void rotateMatrix(vector<vector<int>>& mat) {
         int n = mat.size();
+        for(int i = 0; i < n; i++){
+            reverse(mat[i].begin(), mat[i].end());
+        }
+        
         for(int i = 0; i < n; i++){
             for(int j = i + 1; j < n; j++){
                 swap(mat[i][j], mat[j][i]);
             }
         }
-        for(int r = 0; r < n; r++){
-            int top = 0, bottom = n - 1;
-            while(top < bottom){
-                swap(mat[top++][r], mat[bottom--][r]);
-            }
-        }
     }
 };
+
 
 int main(){
     int n;
