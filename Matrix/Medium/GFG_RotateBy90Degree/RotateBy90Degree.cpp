@@ -6,7 +6,7 @@ Problem Statement:
 Given a square matrix mat[][] of size n x n. The task is to rotate it by 90 degrees in an anti-clockwise direction without using any extra space. 
 -----------------------------------------------------------
 Approach:
-Reverse each row of the matrix, then perform transposition to get 90 degree clockwise rotation of given matrix.
+Reverse each row of the matrix, then perform transposition to get 90 degree anti-clockwise rotation of given matrix.
 -----------------------------------------------------------
 Time Complexity: O(n ^ 2)
 Space Complexity: O(1)
