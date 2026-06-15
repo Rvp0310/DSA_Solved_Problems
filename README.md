@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 174
-    - Easy: 38
-    - Medium: 110
+- Total Problems Solved: 176
+    - Easy: 39
+    - Medium: 111
     - Hard: 26
 
 ---
@@ -28,7 +28,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Matrix* | **2** | **7** | **0** | **9** | [./Matrix/README.md](./Matrix/README.md) |
 | *Prefix_Sum* | **3** | **1** | **0** | **4** | [./Prefix_Sum/README.md](./Prefix_Sum/README.md) |
 | *Queue_And_Dequeue* | **2** | **3** | **0** | **5** | [./Queue_And_Dequeue/README.md](./Queue_And_Dequeue/README.md) |
-| *Recursion_And_Backtracking* | **0** | **4** | **2** | **6** | [./Recursion_And_Backtracking/README.md](./Recursion_And_Backtracking/README.md) |
+| *Recursion_And_Backtracking* | **1** | **5** | **2** | **8** | [./Recursion_And_Backtracking/README.md](./Recursion_And_Backtracking/README.md) |
 | *Searching* | **2** | **4** | **2** | **8** | [./Searching/README.md](./Searching/README.md) |
 | *Sorting* | **0** | **7** | **0** | **7** | [./Sorting/README.md](./Sorting/README.md) |
 | *Stack* | **1** | **6** | **3** | **10** | [./Stack/README.md](./Stack/README.md) |

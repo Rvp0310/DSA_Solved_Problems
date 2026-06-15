@@ -4,9 +4,9 @@ This folder contains solutions to recursion_and_backtracking-related problems ca
 
 ---
         
-**Total Solved**: 6
-- Easy: 0
-- Medium: 4
+**Total Solved**: 8
+- Easy: 1
+- Medium: 5
 - Hard: 2
 
 ---
@@ -15,9 +15,11 @@ This folder contains solutions to recursion_and_backtracking-related problems ca
 
 | Problem | Platform | Difficulty | Date | Link |
 |---------|----------|------------|------|------|
+| `Tower Of Hanoi` | GeeksForGeeks | Easy | June 15, 2026 | [Link](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1?page=1&category=Recursion&sortBy=submissions) |
 | `N Queens` | GeeksForGeeks | Hard | December 25, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/n-queen-problem0315) |
 | `Solve Sudoku` | GeeksForGeeks | Hard | December 27, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/solve-the-sudoku-1587115621) |
 | `Implement Pow` | GeeksForGeeks | Medium | December 22, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n) |
 | `Permutation Of String` | GeeksForGeeks | Medium | December 19, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/permutations-of-a-given-string2041) |
 | `Rat In A Maze` | GeeksForGeeks | Medium | June 6, 2026 | [Link](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1?page=4&sortBy=submissions) |
+| `Replace Owith X` | GeeksForGeeks | Medium | June 15, 2026 | [Link](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1?page=1&category=Recursion&sortBy=submissions) |
 | `Word Search` | GeeksForGeeks | Medium | December 27, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/word-search) |
