@@ -23,8 +23,6 @@ class Solution {
             return 1;
         }
         
-        long long exp = e;
-        
         if (exp < 0) {
             b = 1 / b;
             exp = -exp;
