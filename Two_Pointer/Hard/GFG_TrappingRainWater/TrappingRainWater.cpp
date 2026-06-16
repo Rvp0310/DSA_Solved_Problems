@@ -10,7 +10,7 @@ Two pointers are used to scan the array from both ends while keeping track of th
 -----------------------------------------------------------
 Time Complexity: O(n)
 Space Complexity: O(1)
-*/
+*/ 
 
 #include <iostream>
 #include <string>

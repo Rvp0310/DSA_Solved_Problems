@@ -4,9 +4,9 @@ This folder contains solutions to two pointer-related problems categorized by di
 
 ---
         
-**Total Solved**: 10
+**Total Solved**: 11
 - Easy: 3
-- Medium: 6
+- Medium: 7
 - Hard: 1
 
 ---
@@ -24,4 +24,5 @@ This folder contains solutions to two pointer-related problems categorized by di
 | `Count No Of Triangles` | GeeksForGeeks | Medium | December 10, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-possible-triangles-1587115620) |
 | `Index Subarray Sum` | GeeksForGeeks | Medium | December 10, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/subarray-with-given-sum-1587115621) |
 | `Longest Distinct Character Substring` | GeeksForGeeks | Medium | December 12, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/longest-distinct-characters-in-string5848) |
+| `Quadruple Sum` | GeeksForGeeks | Medium | June 16, 2026 | [Link](https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1?page=1&category=two-pointer-algorithm&sortBy=submissions) |
 | `Triplet Sum K` | GeeksForGeeks | Medium | December 8, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array) |

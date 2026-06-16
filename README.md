@@ -5,8 +5,8 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 176
-    - Easy: 39
+- Total Problems Solved: 177
+    - Easy: 40
     - Medium: 111
     - Hard: 26
 
@@ -24,7 +24,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *Greedy* | **1** | **4** | **0** | **5** | [./Greedy/README.md](./Greedy/README.md) |
 | *Hashing* | **3** | **6** | **0** | **9** | [./Hashing/README.md](./Hashing/README.md) |
 | *Heap* | **0** | **4** | **1** | **5** | [./Heap/README.md](./Heap/README.md) |
-| *Linked_List* | **3** | **6** | **3** | **12** | [./Linked_List/README.md](./Linked_List/README.md) |
+| *Linked_List* | **4** | **6** | **3** | **13** | [./Linked_List/README.md](./Linked_List/README.md) |
 | *Matrix* | **2** | **7** | **0** | **9** | [./Matrix/README.md](./Matrix/README.md) |
 | *Prefix_Sum* | **3** | **1** | **0** | **4** | [./Prefix_Sum/README.md](./Prefix_Sum/README.md) |
 | *Queue_And_Dequeue* | **2** | **3** | **0** | **5** | [./Queue_And_Dequeue/README.md](./Queue_And_Dequeue/README.md) |
