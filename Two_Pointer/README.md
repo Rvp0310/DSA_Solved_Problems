@@ -4,10 +4,10 @@ This folder contains solutions to two pointer-related problems categorized by di
 
 ---
         
-**Total Solved**: 11
+**Total Solved**: 12
 - Easy: 3
 - Medium: 7
-- Hard: 1
+- Hard: 2
 
 ---
 
@@ -18,6 +18,7 @@ This folder contains solutions to two pointer-related problems categorized by di
 | `Pair Sum Closest` | GeeksForGeeks | Easy | December 9, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/pair-in-array-whose-sum-is-closest-to-x1124) |
 | `Pair With Given Sum` | GeeksForGeeks | Easy | December 9, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/pair-with-given-sum-in-a-sorted-array4940) |
 | `Sum Less Than Target` | GeeksForGeeks | Easy | December 8, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target) |
+| `Min Swaps K` | GeeksForGeeks | Hard | June 24, 2026 | [Link](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1?page=1&category=prefix-sum&sortBy=submissions) |
 | `Trapping Rain Water` | GeeksForGeeks | Hard | December 13, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/trapping-rain-water-1587115621) |
 | `Container With Most Water` | GeeksForGeeks | Medium | December 13, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/container-with-most-water0535) |
 | `Count Distinct Elements In Window` | GeeksForGeeks | Medium | December 12, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-distinct-elements-in-every-window) |
