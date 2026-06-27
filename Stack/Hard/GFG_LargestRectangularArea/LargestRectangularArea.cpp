@@ -25,32 +25,26 @@ using namespace std;
 
 class Solution {
   public:
-    int getMaxArea(vector<int> &arr) {
-        int n = arr.size();
-        stack<int> st;
-        int res = 0;
-        
-        for(int i = 0; i < n; i++){
-            while(!st.empty() && arr[st.top()] > arr[i]){
-                int tp = st.top();
-                st.pop();
-                
-                int width = st.empty()? i : (i - st.top() - 1);
-                res = max(res, (arr[tp] * width));
-            }
-            
-            st.push(i);
-        }
-        
-        while (!st.empty()){
-            int tp = st.top();
+    int getMaxArea(vector<int>& arr) {
+    int n = arr.size();
+    stack<int> st;
+    int res = 0;
+
+    for (int i = 0; i <= n; i++) {
+
+        while (!st.empty() && (i == n || arr[st.top()] > arr[i])) {
+            int height = arr[st.top()];
             st.pop();
-            int width = st.empty()? n : (n - st.top() - 1);
-            res = max(res, (arr[tp] * width));
+
+            int width = st.empty() ? i : i - st.top() - 1;
+            res = max(res, height * width);
         }
-        
-        return res;
+
+        st.push(i);
     }
+
+    return res;
+}
 };
 
 int main() {

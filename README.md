@@ -5,9 +5,9 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 
 ## Progress Overview
 
-- Total Problems Solved: 180
+- Total Problems Solved: 182
     - Easy: 40
-    - Medium: 113
+    - Medium: 115
     - Hard: 27
 
 ---
@@ -18,7 +18,7 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | Topic | Easy | Medium | Hard | Total | Path |
 |------|------|--------|------|-------|-------|
 | *Array* | **5** | **8** | **1** | **14** | [./Array/README.md](./Array/README.md) |
-| *Bit_Manipulation* | **3** | **1** | **0** | **4** | [./Bit_Manipulation/README.md](./Bit_Manipulation/README.md) |
+| *Bit_Manipulation* | **3** | **2** | **0** | **5** | [./Bit_Manipulation/README.md](./Bit_Manipulation/README.md) |
 | *Dynamic_Programming* | **0** | **17** | **6** | **23** | [./Dynamic_Programming/README.md](./Dynamic_Programming/README.md) |
 | *Graph* | **2** | **12** | **3** | **17** | [./Graph/README.md](./Graph/README.md) |
 | *Greedy* | **1** | **4** | **0** | **5** | [./Greedy/README.md](./Greedy/README.md) |
@@ -35,4 +35,4 @@ This repository tracks all my DSA practice problems solved in C++ from [LeetCode
 | *String* | **5** | **2** | **2** | **9** | [./String/README.md](./String/README.md) |
 | *Tree* | **3** | **10** | **2** | **15** | [./Tree/README.md](./Tree/README.md) |
 | *Trie* | **0** | **2** | **0** | **2** | [./Trie/README.md](./Trie/README.md) |
-| *Two_Pointer* | **3** | **7** | **2** | **12** | [./Two_Pointer/README.md](./Two_Pointer/README.md) |
+| *Two_Pointer* | **3** | **8** | **2** | **13** | [./Two_Pointer/README.md](./Two_Pointer/README.md) |

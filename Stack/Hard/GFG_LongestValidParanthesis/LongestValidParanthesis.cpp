@@ -32,7 +32,7 @@ class Solution {
   public:
     int maxLength(string& s) {
         stack<int> st;
-        stack<char> ch;
+        
         st.push(-1);
         int maxLen = 0;
         

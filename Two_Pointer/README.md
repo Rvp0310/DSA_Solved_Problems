@@ -4,9 +4,9 @@ This folder contains solutions to two pointer-related problems categorized by di
 
 ---
         
-**Total Solved**: 12
+**Total Solved**: 13
 - Easy: 3
-- Medium: 7
+- Medium: 8
 - Hard: 2
 
 ---
@@ -20,6 +20,7 @@ This folder contains solutions to two pointer-related problems categorized by di
 | `Sum Less Than Target` | GeeksForGeeks | Easy | December 8, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target) |
 | `Min Swaps K` | GeeksForGeeks | Hard | June 24, 2026 | [Link](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1?page=1&category=prefix-sum&sortBy=submissions) |
 | `Trapping Rain Water` | GeeksForGeeks | Hard | December 13, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/trapping-rain-water-1587115621) |
+| `Celebrity Problem` | GeeksForGeeks | Medium | June 27, 2026 | [Link](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1?page=1&category=Stack&sortBy=submissions) |
 | `Container With Most Water` | GeeksForGeeks | Medium | December 13, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/container-with-most-water0535) |
 | `Count Distinct Elements In Window` | GeeksForGeeks | Medium | December 12, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-distinct-elements-in-every-window) |
 | `Count No Of Triangles` | GeeksForGeeks | Medium | December 10, 2025 | [Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-possible-triangles-1587115620) |
